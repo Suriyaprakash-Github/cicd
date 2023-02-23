@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          First Deployment- gitpush
+          First Deployment- dynamic
         </a>
       </header>
     </div>
