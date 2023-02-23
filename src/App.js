@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          First Deployment- dynamic
+          First Deployment
         </a>
       </header>
     </div>
